@@ -1,0 +1,53 @@
+Summary of Results:
+===================
+
+Configuration 0:
+  Hyperparameters: {'gamma': 0.99, 'epsilon': 0.9, 'batch_size': 64, 'eps_end': 0.01, 'lr': 0.0004}
+  Average Reward: -16.98
+  Maximum Reward: 27.48
+  Goal Reached: 139 / 5000 episodes (2.78%)
+  Training Time: 0:24:14 (1454.4 seconds)
+  Episodes Per Hour: 12375.8
+  Successful Episodes Per Hour: 344.0
+  Average Steps to Goal (successful episodes): 33.3
+
+Configuration 1:
+  Hyperparameters: {'gamma': 0.98, 'epsilon': 1.0, 'batch_size': 64, 'eps_end': 0.01, 'lr': 0.0005}
+  Average Reward: -17.51
+  Maximum Reward: 36.18
+  Goal Reached: 142 / 5000 episodes (2.84%)
+  Training Time: 0:27:31 (1652.0 seconds)
+  Episodes Per Hour: 10896.1
+  Successful Episodes Per Hour: 309.4
+  Average Steps to Goal (successful episodes): 36.5
+
+Configuration 2:
+  Hyperparameters: {'gamma': 0.99, 'epsilon': 0.8, 'batch_size': 128, 'eps_end': 0.01, 'lr': 0.0003}
+  Average Reward: -16.59
+  Maximum Reward: 40.01
+  Goal Reached: 168 / 5000 episodes (3.36%)
+  Training Time: 0:21:32 (1292.8 seconds)
+  Episodes Per Hour: 13923.6
+  Successful Episodes Per Hour: 467.8
+  Average Steps to Goal (successful episodes): 33.1
+
+Configuration 3:
+  Hyperparameters: {'gamma': 0.97, 'epsilon': 0.8, 'batch_size': 64, 'eps_end': 0.01, 'lr': 0.0005}
+  Average Reward: -16.39
+  Maximum Reward: 269.24
+  Goal Reached: 176 / 5000 episodes (3.52%)
+  Training Time: 0:34:05 (2045.9 seconds)
+  Episodes Per Hour: 8798.0
+  Successful Episodes Per Hour: 309.7
+  Average Steps to Goal (successful episodes): 45.3
+
+Configuration 4:
+  Hyperparameters: {'gamma': 0.99, 'epsilon': 0.7, 'batch_size': 64, 'eps_end': 0.01, 'lr': 0.0002}
+  Average Reward: -14.62
+  Maximum Reward: 205.89
+  Goal Reached: 142 / 5000 episodes (2.84%)
+  Training Time: 0:34:51 (2091.9 seconds)
+  Episodes Per Hour: 8604.5
+  Successful Episodes Per Hour: 244.4
+  Average Steps to Goal (successful episodes): 47.4
+

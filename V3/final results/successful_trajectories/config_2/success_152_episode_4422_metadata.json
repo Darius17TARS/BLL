@@ -1,0 +1,15 @@
+{
+    "config_id": 2,
+    "episode_id": 4422,
+    "success_number": 152,
+    "total_steps": 27,
+    "total_reward": 11.693756545741985,
+    "initial_state": {
+        "x": 155.11509704589844,
+        "y": 478.24444580078125,
+        "xv": -1.0553359985351562,
+        "yv": -0.8636907935142517,
+        "target_distance": 0.0
+    },
+    "timestamp": "2025-04-10 04:16:28"
+}

@@ -1,0 +1,60 @@
+Configuration Timing Log
+Date: 2025-04-10 03:05:38
+==================================================
+
+Configuration 0:
+  Hyperparameters: {'gamma': 0.99, 'epsilon': 0.9, 'batch_size': 64, 'eps_end': 0.01, 'lr': 0.0004}
+  Start Time: 2025-04-10 03:05:38
+  End Time: 2025-04-10 03:29:52
+  Total Time: 0:24:14 (1454.45 seconds)
+  Success Rate: 139/5000 (2.78%)
+  Episodes Per Hour: 12375.82
+  Successful Episodes Per Hour: 344.05
+
+Configuration 1:
+  Hyperparameters: {'gamma': 0.98, 'epsilon': 1.0, 'batch_size': 64, 'eps_end': 0.01, 'lr': 0.0005}
+  Start Time: 2025-04-10 03:29:53
+  End Time: 2025-04-10 03:57:25
+  Total Time: 0:27:31 (1651.97 seconds)
+  Success Rate: 142/5000 (2.84%)
+  Episodes Per Hour: 10896.11
+  Successful Episodes Per Hour: 309.45
+
+Configuration 2:
+  Hyperparameters: {'gamma': 0.99, 'epsilon': 0.8, 'batch_size': 128, 'eps_end': 0.01, 'lr': 0.0003}
+  Start Time: 2025-04-10 03:57:26
+  End Time: 2025-04-10 04:18:59
+  Total Time: 0:21:32 (1292.77 seconds)
+  Success Rate: 168/5000 (3.36%)
+  Episodes Per Hour: 13923.59
+  Successful Episodes Per Hour: 467.83
+
+Configuration 3:
+  Hyperparameters: {'gamma': 0.97, 'epsilon': 0.8, 'batch_size': 64, 'eps_end': 0.01, 'lr': 0.0005}
+  Start Time: 2025-04-10 04:18:59
+  End Time: 2025-04-10 04:53:05
+  Total Time: 0:34:05 (2045.92 seconds)
+  Success Rate: 176/5000 (3.52%)
+  Episodes Per Hour: 8798.00
+  Successful Episodes Per Hour: 309.69
+
+Configuration 4:
+  Hyperparameters: {'gamma': 0.99, 'epsilon': 0.7, 'batch_size': 64, 'eps_end': 0.01, 'lr': 0.0002}
+  Start Time: 2025-04-10 04:53:06
+  End Time: 2025-04-10 05:27:58
+  Total Time: 0:34:51 (2091.93 seconds)
+  Success Rate: 142/5000 (2.84%)
+  Episodes Per Hour: 8604.50
+  Successful Episodes Per Hour: 244.37
+
+
+==================================================
+Overall Experiment Timing:
+  Start Time: 2025-04-10 03:05:38
+  End Time: 2025-04-10 05:27:59
+  Total Time: 2:22:21 (8541.14 seconds)
+  Total Episodes: 25000
+  Total Successful Episodes: 767
+  Overall Success Rate: 3.07%
+  Episodes Per Hour: 10537.24
+  Successful Episodes Per Hour: 323.28
